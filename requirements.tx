@@ -1,0 +1,6 @@
+flask
+mediapipe
+numpy
+opencv-python
+pyzbar
+zbarcam
